@@ -1,19 +1,22 @@
 ```
 # HealthConnect 🩺
 
-**Live Website**: [http://healthconnect.ayushg.site](http://healthconnect.ayushg.site)
+**Live Website**: http://healthconnect.ayushg.site
 
 HealthConnect is a static, health-themed web application that provides simple tools like BMI and Water Intake calculators. The website is responsive, user-friendly, and fully deployed using AWS services.
 
 ---
 
-## 🧠 Features
+### 🧠 Features
 
-- ✅ **BMI Calculator** – Calculates Body Mass Index based on weight and height.
-- ✅ **Water Intake Calculator** – Estimates daily water requirements.
-- ✅ **Clean UI** – User-friendly, minimal, and mobile-responsive design using Bootstrap.
-- ✅ **Informational Content** – Sections related to health awareness.
-- ✅ **Fully Cloud Hosted** – Hosted on AWS S3 with a custom domain using Route 53.
+* ✅ **BMI Calculator** – Calculates Body Mass Index using weight and height to assess healthy body range.
+* ✅ **Water Intake Calculator** – Estimates daily water requirement based on weight and lifestyle.
+* ✅ **Calorie Tracker** – Helps users track calorie intake for healthier meal planning.
+* ✅ **Sleep Duration Calculator** – Recommends ideal sleep duration based on wake-up time and sleep cycle.
+* ✅ **Meditation & Mindfulness Section** – Provides guided techniques and tips for mental wellness.
+* ✅ **21-Day Health Routine Plan** – A structured 3-week challenge promoting fitness, hydration, and mindfulness habits.
+* ✅ **Clean, Responsive UI** – Built with Bootstrap for mobile-friendly experience across all devices.
+* ✅ **Deployed on the Cloud** – Hosted on AWS S3 and connected with a custom domain via Route 53.
 
 ---
 
